@@ -1,4 +1,4 @@
-**Project Title: Business Card Information Extractor**
+# Project Title: Business Card Information Extractor
 
 ### Introduction
 Welcome to the Business Card Information Extractor project! This project aims to develop a user-friendly Streamlit application that enables users to extract relevant information from business cards effortlessly. Using the power of easyOCR, users can upload images of business cards and have the application extract key details such as company name, cardholder name, contact information, and more. The extracted information can then be stored in a database for easy access and management.
