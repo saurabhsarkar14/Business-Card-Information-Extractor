@@ -1,0 +1,8 @@
+easyocr
+re
+os
+codecs
+sqlite3
+pandas
+numpy
+streamlit
