@@ -23,8 +23,11 @@ The motivation behind this project is to provide users with a convenient solutio
 3. **Image Processing and OCR**: Implement image processing techniques and integrate easyOCR for information extraction.
 4. **Database Integration**: Integrate SQLite/MySQL to store extracted information along with uploaded images.
 5. **Testing and Optimization**: Thoroughly test the application to ensure functionality and optimize code for performance.
-6. **Documentation and Code Organization**: Provide comprehensive documentation and organize code for clarity and maintainability.
-7. **Continuous Improvement**: Continuously enhance the application by adding new features, optimizing code, and addressing user feedback.
+
+### Deploying on Streamlit Cloud
+The Business Card Information Extractor App is now accessible via a Streamlit application hosted at the following link: https://business-card-information-extractor.streamlit.app/
+7. **Documentation and Code Organization**: Provide comprehensive documentation and organize code for clarity and maintainability.
+8. **Continuous Improvement**: Continuously enhance the application by adding new features, optimizing code, and addressing user feedback.
 
 ### Conclusion
 The Business Card Information Extractor project aims to provide users with a streamlined solution for managing business card information. By leveraging OCR technology and database management, users can easily extract, store, and manage contact details, improving efficiency and productivity. We hope this project serves as a valuable tool for businesses and individuals alike in managing their networking and contact information effectively.
